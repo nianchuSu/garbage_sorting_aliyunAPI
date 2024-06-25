@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=im-launch
+Exec=/home/orangepi/mjpg.sh
+Type=Application
+NoDisplay=true
+
+#这个文件放在
+#cd /etc/xdg/autostart/
+#这个目录下
